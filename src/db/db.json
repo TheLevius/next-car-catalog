@@ -1,0 +1,58 @@
+{
+  "cars": [
+    {
+      "id": 1,
+      "name": "Toyota Camry",
+      "price": 24970,
+      "image": "/images/lotus-new.webp"
+    },
+    {
+      "id": 2,
+      "name": "Honda Civic",
+      "price": 22545,
+      "image": "/images/lotus-new2.webp"
+    },
+    {
+      "id": 3,
+      "name": "Ford Mustang",
+      "price": 28840,
+      "image": "/images/lotus-new.webp"
+    },
+    {
+      "id": 4,
+      "name": "Chevrolet Corvette",
+      "price": 62195,
+      "image": "/images/lotus-new2.webp"
+    },
+    {
+      "id": 5,
+      "name": "Tesla Model S",
+      "price": 79990,
+      "image": "/images/lotus-new.webp"
+    },
+    {
+      "id": 6,
+      "name": "BMW 3 Series",
+      "price": 43700,
+      "image": "/images/lotus-new2.webp"
+    },
+    {
+      "id": 7,
+      "name": "Audi A4",
+      "price": 40145,
+      "image": "/images/lotus-new.webp"
+    },
+    {
+      "id": 8,
+      "name": "Mercedes-Benz C-Class",
+      "price": 43600,
+      "image": "/images/lotus-new2.webp"
+    },
+    {
+      "id": 9,
+      "name": "McLaren",
+      "price": 300000,
+      "image": "/images/lotus-new.webp"
+    }
+  ]
+}
